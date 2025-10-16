@@ -5,7 +5,7 @@
 
 ## 📖 Project Overview  
 
-This project is designed to enhance my skills in ***data cleaning, preprocessing, exploration, and dashboard creation***. The dataset used in this project is a ***secondary data obtained from Kaggle***. The workflow begins with a comprehensive **data cleaning process**, which includes handling missing values, duplicates, outliers, and inconsistent data formats to ensure the dataset is accurate, complete, and analysis-ready.  
+This project is designed to enhance my skills in ***data cleaning, preprocessing, and dashboard creation***. The dataset used in this project is a ***secondary data obtained from Kaggle***. The workflow begins with a comprehensive **data cleaning process**, which includes handling missing values, duplicates, outliers, and inconsistent data formats to ensure the dataset is accurate, complete, and analysis-ready.  
 
 After cleaning, the dataset is connected to Google Looker Studio (via Google Sheets) to perform data analysis and create an interactive dashboard. The dashboard highlights key business metrics such as total sales, top-selling items, customer behavior by time of sale, and payment preferences, providing a clear overview of the company’s sales performance.
 
