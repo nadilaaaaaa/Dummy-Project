@@ -36,7 +36,7 @@ This end-to-end project demonstrates proficiency in Python (Pandas, NumPy) for d
 Here are the main tools used for analyzing and visualizing the data:
 | Tools | Purpose |
 |------|----------|
-| 🐍 Google Colab | Main programming language |
+| 🐍 Google Colab | Development environment for writing and running Python code |
 | 🧾 Looker Studio | Interactive dashboard |
 
 For data cleaning and preprocessing in Google Colab, the following Python libraries were used:
