@@ -144,6 +144,8 @@ df.to_csv(file_path, index=False)
 ---
 ## 📊 Dashboard 
 After exporting the cleaned dataset to Google Drive (linked directly to Google Sheets), I connected the data to Google Looker Studio in order to build an interactive dashboard for comprehensive visualization and analytical insights.
+
 🔗***Interactive Dashboard: https://lookerstudio.google.com/reporting/f140fb89-1e5b-444d-8145-1973dd56614f***
+
 <img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/96d9cfe7-cbf4-4cb6-ab1e-46e708bbf89a" />
 
