@@ -48,8 +48,7 @@ For data cleaning and preprocessing in Google Colab, the following Python librar
 ---
 ## 🧹 Data Cleaning Workflow  
 The following steps were executed in **Google Colab** inside  
-📓 `Dummy Project Balaji Sales Report.ipynb`.
-
+📓 [`Dummy Project Balaji Sales Report.ipynb`](https://colab.research.google.com/drive/1BLbDzVChMvMUohwSzLznk-IWNWGx7SPg?usp=sharing)
 ### 1. Import Libraries
 ```python
 import pandas as pd
