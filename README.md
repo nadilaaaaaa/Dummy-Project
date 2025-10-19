@@ -1,5 +1,5 @@
 # 🍴 Balaji Fast Food Sales — Data Cleaning & Dashboard Analytics
-📥 [Download the original dataset here]: [Restaurant sales report – Kaggle](https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report)
+📥 [Restaurant sales report – Kaggle](https://www.kaggle.com/datasets/rajatsurana979/fast-food-sales-report)
 
 ---
 
